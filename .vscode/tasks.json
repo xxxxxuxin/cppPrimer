@@ -10,7 +10,7 @@
 				"-g",
 				"${file}",
 				"-o",
-				"${fileDirname}/1-2"
+				"${fileDirname}/1-3"
 			],
 			"options": {
 				"cwd": "${fileDirname}"
