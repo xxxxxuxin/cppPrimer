@@ -1,3 +1,3 @@
 # cppPrimer
 
-Learn C++ following *C++ Primer*.
+Learn C++ following ***C++ Primer***.
