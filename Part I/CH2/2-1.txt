@@ -1,0 +1,25 @@
+type of 'a' is char
+type of L'a' is wchar_t
+type of "a" is char [2]
+type of L"a" is wchar_t [2]
+
+
+type of 10 is int
+type of 10u is unsigned int
+type of 10L is long
+type of 10uL is unsigned long
+type of 10. is double
+type of 10e-2 is double
+
+
+type of 012 is int
+type of 0xC is int
+
+
+type of 3.14 is double
+type of 3.14f is float
+type of 3.14L is long double
+
+
+month: 9 day: 7
+month: 9 day: 7

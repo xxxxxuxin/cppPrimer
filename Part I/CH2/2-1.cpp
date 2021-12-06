@@ -48,10 +48,10 @@ int main(){
     cout << "\n\n";
     
     int month=9, day=7;
-    cout<< "month: " << month << "day: " << day <<endl;
+    cout<< "month: " << month << " day: " << day <<endl;
     // month=09; error: invalid digit '9' in octal constant
     day=07;
-    cout<< "month: " << month << "day: " << day <<endl;
+    cout<< "month: " << month << " day: " << day <<endl;
 
  
 
